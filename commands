@@ -1,0 +1,5 @@
+npm install express
+npm install nodemon
+npm init
+npm config get prefix
+npm start
